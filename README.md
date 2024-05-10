@@ -4,7 +4,7 @@
 
 Con este proyecto lo que se pretende es que tu puedas conocer mas datos EUROVISION.
 
-![Image](img/Eurovision_Song_Contest_logo.jpg)
+![Image](img/Eurovision_Song_Contest_logo.png)
 
 El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos por analizar.
 
@@ -15,6 +15,8 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 * Índice
 
 * Descripción del proyecto----------
+
+* Esquema de la Arquitectura de datos.
 
 * Características de la aplicación y demostración-----------
 
@@ -31,6 +33,10 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 Proyecto en desarrollo para todos los deportistas que entrenen en centros deportivos de la CCAA de Madrid para facilitarte la movilidad por la ciudad de madrid, más concretamente para las personas que usen BiciMad. 
 
 Este proyecto esta diseñado para ayudarte a encontrar la parada más cercana de BiciMad cuando te dirijas a cualquier centro deportivo en Madrid y te indica los metros de distancia. Además, proporciona información sobre la disponibilidad de bases para aparcar tu bicicleta o la disponibilidad de bicicletas en esa parada.
+
+### Esquema de la Arquitectura de datos.
+
+![Image](img/ARQUITECTURA_DE_DATOS.jpg)
 
 ### Características de la aplicación.
 
