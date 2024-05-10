@@ -1,24 +1,22 @@
 # EDA_Eurovision
 
-## ¿Quien no ha encontrado una estación cercana de BICIMAD cuando se ha dirigido a un lugar concreto?
+## ¿Quien no conoce Eurovision?
 
-Con este proyecto lo que se pretende es que tu puedas conocer la parada mas cercana de BICIMAD cuando vayas a cualquier centro deportivo de Madrid, pero no sólo eso, sino que te informe de si hay bases disponibles para aparcar tu bici o que puedas ir a por una bici cuando salgas del centro deportivo.
+Con este proyecto lo que se pretende es que tu puedas conocer mas datos EUROVISION.
 
 ![Image](img/Eurovision_Song_Contest_logo.jpg)
 
-El proyecto se encuentra aún en su fase Beta. Aún se sigue mejorando para una mayor legibilidad.
+El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos por analizar.
 
 ## Índice
 
 * Título e imagen de portada
 
-* Estado del proyecto
-
 * Índice
 
-* Descripción del proyecto
+* Descripción del proyecto----------
 
-* Características de la aplicación y demostración
+* Características de la aplicación y demostración-----------
 
 * Acceso al proyecto
 
@@ -26,7 +24,7 @@ El proyecto se encuentra aún en su fase Beta. Aún se sigue mejorando para una 
 
 * Personas-Desarrolladores del Proyecto
 
-* Conclusión
+* Contribuciones
 
 ### Descripcion del proyecto.
 
@@ -44,13 +42,13 @@ Disponibilidad de bicicletas: También te informará si hay bicicletas disponibl
 
 ### Acceso al proyecto.
 
-* Clona este repositorio en tu máquina local.
-* Navega al directorio del proyecto.
-* Y desde la pantalla de comandos abre el archivo argparse.py
+* Pincha en el enlace de Tableau y observa los datos del dashboard.
 
 ### Requisitos del sistema.
 
 * Python 3.x instalado en tu sistema.
+
+* Tableau Public.
 
 * Conexión a internet para la recuperación de datos en tiempo real.
 
