@@ -16,11 +16,9 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 
 * Enlace del Dashboard
 
-* Descripción del proyecto----------
-
 * Esquema de la Arquitectura de datos.
 
-* Características de la aplicación y demostración-----------
+* Características de la aplicación y demostración.
 
 * Acceso al proyecto
 
@@ -30,27 +28,26 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 
 * Contribuciones
 
-### Enlace del dashboard.
+### Enlace del dashboard de Tableau.
 
 https://public.tableau.com/views/EDA_Mod2/Dashboard2?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
-### Descripcion del proyecto.
-
-Proyecto en desarrollo para todos los deportistas que entrenen en centros deportivos de la CCAA de Madrid para facilitarte la movilidad por la ciudad de madrid, más concretamente para las personas que usen BiciMad. 
-
-Este proyecto esta diseñado para ayudarte a encontrar la parada más cercana de BiciMad cuando te dirijas a cualquier centro deportivo en Madrid y te indica los metros de distancia. Además, proporciona información sobre la disponibilidad de bases para aparcar tu bicicleta o la disponibilidad de bicicletas en esa parada.
 
 ### Esquema de la Arquitectura de datos.
 
 ![Image](img/ARQUITECTURA%20DE%20DATOS.jpg)
 
+Para poder realizar este proyecto tenemos una serie de archivos csv con todos los datos que necesitamos, usando Phyton, y mas concretamente con Pandas, logramos interpretar los datos que estan en estos archivos. Obtenemos y visualizamos las tablas y sus datos para analizar los datos y cree una base de datos con DuckDB. 
+
+Finalmente no uso la base de datos que cree.
+
+Decido hacer el dashboard con Tableau. Enlazo los csv con el programa y creo el modelo de datos en Tableau. Investigo los datos que tengo y realizo el dashboard con los datos que creo mejor.
+
 ### Características de la aplicación.
 
-Localización de la parada más cercana: Utilizando la ubicación de cualquier centro deportivo, la aplicación encontrará la parada de BiciMad más cercana.
+Con este proyecto lo que pretendo es saber mas sobre un tema que me apasiona. Despues de estar analizando los datos, creo que los datos más importantes son los relacionados con los puntos que los paises reciben en cada uno de los certamenes.
 
-Información sobre la disponibilidad de bases: Te informará si hay bases disponibles en la parada seleccionada para aparcar tu bicicleta.
-
-Disponibilidad de bicicletas: También te informará si hay bicicletas disponibles en la parada, lo que te permite alquilar una bicicleta cuando salgas del centro deportivo.
+Con mis dashboards podras descubrir los paises que han recibido votos en Eurovision entre los años 2003 al 2022. Además de poder descubrir curiosidades como el tipo de sponsor que tiene, el genero de canciones mas usadas. Aún me falta mas por investigar. Lo ire desarrollando poco a poco.
 
 ### Acceso al proyecto.
 
