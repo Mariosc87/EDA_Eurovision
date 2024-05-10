@@ -4,7 +4,7 @@
 
 Con este proyecto lo que se pretende es que tu puedas conocer la parada mas cercana de BICIMAD cuando vayas a cualquier centro deportivo de Madrid, pero no sólo eso, sino que te informe de si hay bases disponibles para aparcar tu bici o que puedas ir a por una bici cuando salgas del centro deportivo.
 
-![Image](img/Eurovision_Song_Contest_logo.png)
+![Image](img/Eurovision_Song_Contest_logo.jpg)
 
 El proyecto se encuentra aún en su fase Beta. Aún se sigue mejorando para una mayor legibilidad.
 
