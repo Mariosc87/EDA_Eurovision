@@ -36,7 +36,7 @@ Este proyecto esta diseñado para ayudarte a encontrar la parada más cercana de
 
 ### Esquema de la Arquitectura de datos.
 
-![Image](img/ARQUITECTURA DE DATOS.jpg)
+![Image](img/ARQUITECTURA%20DE%20DATOS.jpg)
 
 ### Características de la aplicación.
 
