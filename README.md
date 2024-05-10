@@ -14,6 +14,8 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 
 * Índice
 
+* Enlace del Dashboard
+
 * Descripción del proyecto----------
 
 * Esquema de la Arquitectura de datos.
@@ -27,6 +29,10 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 * Personas-Desarrolladores del Proyecto
 
 * Contribuciones
+
+### Enlace del dashboard.
+
+https://public.tableau.com/views/EDA_Mod2/Dashboard2?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Descripcion del proyecto.
 
