@@ -1,0 +1,78 @@
+Table countries {
+    country_id varchar [pk]
+    country_name varchar
+    country_code varchar
+    region varchar
+    population int
+}
+
+Table contests {
+    contest_id varchar [pk]
+    year int
+    host_country varchar [ref: > countries.country_id]
+    venue varchar
+    theme varchar
+}
+
+Table participants {
+    participant_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    country_id varchar [ref: > countries.country_id]
+    artist_name varchar
+    song_id varchar [ref: > songs.song_id]
+    is_finalist boolean
+}
+
+Table songs {
+    song_id varchar [pk]
+    song_title varchar
+    song_length_seconds int
+    genre varchar
+    language varchar
+}
+
+Table judges {
+    judge_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    name varchar
+    country_id varchar [ref: > countries.country_id]
+}
+
+Table votes {
+    vote_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    country_id varchar [ref: > countries.country_id]
+    points int
+    voting_type varchar
+    participant_id varchar [ref: > participants.participant_id]
+}
+
+Table results {
+    result_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    country_id varchar [ref: > countries.country_id]
+    total_points int
+    ranking int
+}
+
+Table hosts {
+    host_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    name varchar
+    country_id varchar [ref: > countries.country_id]
+}
+
+Table sponsors {
+    sponsor_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    sponsor_name varchar
+    contribution varchar
+}
+
+Table venues {
+    venue_id varchar [pk]
+    contest_id varchar [ref: > contests.contest_id]
+    venue_name varchar
+    city varchar
+    capacity int
+}
