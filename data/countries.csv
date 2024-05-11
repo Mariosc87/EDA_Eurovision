@@ -1,0 +1,41 @@
+country_id,country_name,country_code,region,population
+CTRY000,Albania,ZHW,Southern Europe,83228802
+CTRY001,Alemania,JR6,Eastern Europe,97539316
+CTRY002,Andorra,4DP,Southern Europe,68750178
+CTRY003,Armenia,JA1,Eastern Europe,58276174
+CTRY004,Austria,WJ0,Western Europe,74534128
+CTRY005,Australia,TPA,Northern Europe,60849511
+CTRY006,Azerbaiyán,C56,Northern Europe,22361812
+CTRY007,Bélgica,T4U,Western Europe,64709724
+CTRY008,Bielorrusia,FEL,Eastern Europe,61407340
+CTRY009,Bosnia y Herzegovina,624,Northern Europe,35788100
+CTRY010,Bulgaria,6HI,Eastern Europe,34183955
+CTRY011,Chipre,D25,Eastern Europe,86585469
+CTRY012,Croacia,OWF,Eastern Europe,38220099
+CTRY013,Dinamarca,759,Western Europe,70967676
+CTRY014,Eslovaquia,35A,Western Europe,66041510
+CTRY015,Eslovenia,0L7,Eastern Europe,85120751
+CTRY016,España,253,Southern Europe,33111036
+CTRY017,Estonia,J2D,Western Europe,37855845
+CTRY018,Finlandia,54I,Southern Europe,60038700
+CTRY019,Francia,3QK,Southern Europe,11399639
+CTRY020,Georgia,2IA,Eastern Europe,96770370
+CTRY021,Grecia,GL5,Southern Europe,39349783
+CTRY022,Hungría,8KX,Southern Europe,32473195
+CTRY023,Irlanda,O9T,Southern Europe,37468984
+CTRY024,Islandia,7E8,Eastern Europe,46076693
+CTRY025,Israel,G8J,Eastern Europe,43910691
+CTRY026,Italia,DP0,Western Europe,73498004
+CTRY027,Letonia,LVS,Western Europe,11814950
+CTRY028,Lituania,NUJ,Southern Europe,19572252
+CTRY029,Luxemburgo,ZA7,Eastern Europe,21244148
+CTRY030,Macedonia del Norte,TZ0,Eastern Europe,32039390
+CTRY031,Malta,YNC,Southern Europe,52410126
+CTRY032,Marruecos,XLL,Western Europe,94140367
+CTRY033,Moldavia,4ZK,Eastern Europe,21509175
+CTRY034,Mónaco,LOO,Western Europe,95813972
+CTRY035,Montenegro,KEP,Southern Europe,29716269
+CTRY036,Noruega,7Y6,Eastern Europe,9620650
+CTRY037,Países Bajos,WKT,Southern Europe,56682626
+CTRY038,Polonia,AKP,Northern Europe,55707061
+CTRY039,Portugal,UXQ,Southern Europe,45410148
