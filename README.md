@@ -53,7 +53,7 @@ Decido hacer el dashboard con Tableau. Enlazo los csv con el programa y creo el 
 
 ### Base de datos.
 
-![Image](img/Eurovision_Song_Contest_logo.png)
+![Image](img/EUROVISION_diagram.png)
 
 ### Características de la aplicación.
 
