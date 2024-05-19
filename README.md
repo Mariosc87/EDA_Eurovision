@@ -34,7 +34,7 @@ El proyecto se encuentra aún en su fase de desarrollo, aún hay muchos datos po
 
 ### Mockup.
 
-![Image](img/Eurovision_Song_Contest_logo.png)
+![Image](img/Captura%20de%20pantalla%202024-05-19%20220144.png)
 
 ### Enlace del dashboard de Tableau.
 
